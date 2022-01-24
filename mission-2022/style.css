@@ -1,0 +1,151 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Yeseva One', cursive;
+
+}
+.color{
+    color:orange;
+}
+h1{
+    font-size: 50px;
+ 
+    margin: 0px;
+    text-align: center;
+    padding-top: 40px;
+
+}
+section{
+    display: flex;
+}
+.half img{
+width: 80%;
+
+
+}
+.half{
+    width: 100%;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(red ,tomato);
+    font-size: 20px;
+    font-weight: normal;
+    color: white;
+    padding:10px 40px;
+    border-radius: 5px;
+}
+p{
+    font-weight: bold;
+}
+.font{
+    padding-top: 25px;
+
+}
+.op{
+   
+    text-align: center;
+}
+.op{
+    text-align: center;
+}
+.color{
+    color: orange;
+}
+.area{
+    box-shadow:5px 5px  20px gray;
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 20px;
+    padding-top: 30px;
+    
+    
+    
+}
+.area img{
+    width: 40%;
+
+}
+#love{
+    background-color: rgb(193, 221, 224);
+
+}
+#hate{
+    background-color: rgb(214, 202, 214);
+
+}
+#lose{
+    background-color: rgb(231, 227, 220);
+}
+.earned{
+    display: flex;
+    padding-top: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.earned img{
+    width: 60%;
+    padding-left: 30%;
+} 
+.chiesa{
+    padding-top:10% ;
+}
+.jabi{
+    width:0%;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.bhabi{
+    width: 0%;
+    padding-top: 5%;
+    padding-left: 10%;
+    
+}
+.ragi{
+    width:0px;
+    padding-bottom: 40px;
+    height:auto;
+    
+}
+
+footer p{
+    text-align: center;
+    color: aliceblue;             
+}
+.table-box{
+    width: 1500px;
+    height: 250px;
+    border: none;
+    border-radius: 20px;
+    background-color: black;
+    
+}
+.style{
+    font-size:40px ;
+}
+.loves{
+    color: red;
+}
+.op{
+    color: orange;
+}
+
+
+
+
+
+
+    
+
+
+
+
+  
+
+
+    
+
+
+ 
